@@ -1,1 +1,1 @@
-# public
+Public repository for various scripts
